@@ -1,0 +1,78 @@
+[Medlemmer{age='40', name='Patrick', aktiv=true, restance=false, seniorPris=1600, juniorPris=1000, price=1600}]
+[KonkurrenceSvømmer{kanCrawl=true, kanBryst=true, kanRygCrawl=true, kanButterfly=true, konkurrencesvømmer=false name: Shucayb  age: 23}]
+[Medlemmer{age='20', name='Hassan', aktiv=true, restance=false, seniorPris=1600, juniorPris=1000, price=1600}]
+[Medlemmer{age='12', name='lilledreng', aktiv=true, restance=false, seniorPris=1600, juniorPris=1000, price=1000}]
+[KonkurrenceSvømmer{kanCrawl=true, kanBryst=false, kanRygCrawl=false, kanButterfly=false, konkurrencesvømmer=false name: lilledrengK  age: 8 hold: JUNIOR]
+[Medlemmer{age='34', name='stormand', aktiv=true, restance=false, seniorPris=1600, juniorPris=1000, price=1600}]
+[KonkurrenceSvømmer{kanCrawl=true, kanBryst=false, kanRygCrawl=false, kanButterfly=false, konkurrencesvømmer=false name: stormandk  age: 90 hold: SENIOR]
+[KonkurrenceSvømmer{kanCrawl=true, kanBryst=false, kanRygCrawl=false, kanButterfly=false, konkurrencesvømmer=false name: akk  age: 22 hold: SENIOR]
+[KonkurrenceSvømmer{true, konkurrencesvømmer=false name: ali  age: 22 hold: SENIOR]
+[KonkurrenceSvømmer{true, konkurrencesvømmer=false name: kok  age: 22 hold: SENIOR]
+[KonkurrenceSvømmer{true, konkurrencesvømmer=false name: dsdas  age: 22 hold: SENIOR]
+[KonkurrenceSvømmer{true, konkurrencesvømmer=false name: wwewewq  age: 22 hold: SENIOR]
+[true, konkurrencesvømmer=false name: sdsadsa  age: 22 hold: SENIOR]
+[true, konkurrencesvømmer= name: hejsa  age: 22 hold: SENIOR]
+[true, konkurrencesvømmer= name: yasin  age: 22 hold: SENIOR]
+[kanCrawl true name: hambel  age: 22 hold: SENIOR]
+[age='12', name='ali almindelig', aktiv=true, restance=false, price=1000]
+[(name: ali konkurrence, ali konkurrence er tilmeldt følgende svømmestile-r: Cravl, RygCrawl:  Alder: 12 hold: JUNIOR)]
+[age='22', name='ali gammel', aktiv=true, restance=false, price=1600]
+[(name: ali konkurrence gammel, ali konkurrence gammel er tilmeldt følgende svømmestile-r: Brystsvømning:  Alder: 22 hold: SENIOR)]
+[(name: ali, ali er tilmeldt følgende svømmestile-r: Cravl, RygCrawl:  Alder: 21 hold: SENIOR)]
+[age='22', name='kala', aktiv=true, restance=false, price=1600]
+[age='22', name='ali', aktiv=true, restance=false, price=1600]
+[(name: awlele, awlele er tilmeldt følgende svømmestile-r: Cravl:  Alder: 22 hold: SENIOR Træner: Patrick Agergaard)]
+[(name: alwan, alwan er tilmeldt følgende svømmestile-r: Cravl:  Alder: 12 hold: JUNIOR Træner: null)]
+[(name: awlele, awlele er tilmeldt følgende svømmestile-r: Cravl:  Alder: 12 hold: JUNIOR Træner: Patrick Agergaard)]
+[(name: awlgammel, awlgammel er tilmeldt følgende svømmestile-r: Cravl:  Alder: 22 hold: SENIOR Træner: Hardy Akira Madsen)]
+[(name: awlphelps, awlphelps er tilmeldt følgende svømmestile-r: Brystsvømning, Cravl:  Alder: 22 hold: SENIOR Træner: Hardy Akira Madsen awlphelpss bedste tid: 28.0)]
+[(name: ali, ali er tilmeldt følgende svømmestile-r: Brystsvømning,Bedste tid for denne disciplin 29.0 Cravl,Bedste tid for denne disciplin 28.:  Alder: 22 hold: SENIOR Træner: Hardy Akira Madsen alis bedste tid: 24.0)]
+[(name: ali, ali er tilmeldt følgende svømmestile-r: Brystsvømning, Bedste tid for Bryst er 23.0 sekunder Cravl, Bedste tid for Crawl er 29.0 sekunde:  Alder: 22 hold: SENIOR Træner: Hardy Akira Madsen alis bedste tid: 20.0)]
+[(name: ali, ali er tilmeldt følgende svømmestile-r: Brystsvømning, Bedste tid for Bryst er 23.0 sekunder
+ Cravl, Bedste tid for Crawl er 25.0 sekunde:  Alder: 22 hold: SENIOR Træner: Hardy Akira Madsen alis bedste tid: 20.0)]
+[(name: ali, ali er tilmeldt følgende svømmestile-r: Bedste tid for Bryst er 28.0 sekunder
+ Bedste tid for Butterfly er 28.0 sekunder
+ Bedste tid for Crawl er 29.0 sekunder
+ Bedste tid for Ryg Crawl er 20.0 sekunder:  Alder: 22 hold: SENIOR Træner: Hardy Akira Madsen alis bedste tid: 29.0)]
+[(name: ali, ali er tilmeldt følgende svømmestile-r:  Bedste tid for Bryst er 22.0 sekunder
+
+ Bedste tid for Butterfly er 22.0 sekunder
+ 
+Bedste tid for Crawl er 26.0 sekunder
+ 
+Bedste tid for Ryg Crawl er 22.0 sekunder:  Alder: 22 hold: SENIOR Træner: Hardy Akira Madsen alis bedste tid: 29.0)]
+[(name: ali, ali er tilmeldt følgende svømmestile-r:
+Bedste tid for Bryst er 26.0 sekunder
+ Bedste tid for Butterfly er 22.0 sekunder
+ Bedste tid for Crawl er 23.0 sekunder
+ Bedste tid for Ryg Crawl er 20.0 sekunder:
+ Alder: 22 hold: SENIOR Træner: Hardy Akira Madsen alis bedste tid: 23.0)]
+[(name: ejfi, ejfi er tilmeldt følgende svømmestile-r:
+Bedste tid for Bryst er 23.52 sekunder
+ Bedste tid for Butterfly er 28.74 sekunder
+ Bedste tid for Crawl er 24.81 sekunder
+ Bedste tid for Ryg Crawl er 28.65 sekunder:
+ Alder: 22 hold: SENIOR Træner: Hardy Akira Madsen ejfi)]
+[(name: ipwefj, ipwefj er tilmeldt følgende svømmestile-r:
+Bedste tid for Bryst er 23.79 sekunder
+ Bedste tid for Butterfly er 21.67 sekunder
+ Bedste tid for Crawl er 27.46 sekunder
+ Bedste tid for Ryg Crawl er 23.56 sekunder:
+ Alder: 22 hold: SENIOR Træner: Hardy Akira Madsen)]
+[Navn: ali
+ali er tilmeldt følgende svømmestile-r:
+Bedste tid for Butterfly er 29.75 sekunder
+ Bedste tid for Crawl er 28.74 sekunder
+ Bedste tid for Ryg Crawl er 27.97 sekunder:
+ Alder: 22 hold: SENIOR Træner: Hardy Akira Madsen]
+[Navn: ali
+ali er tilmeldt følgende svømmestile:
+Bedste tid for Crawl er 27.70 sekunder:
+ Alder: 22 hold: SENIOR Træner: Hardy Akira Madsen]
+[Navn: yasin
+yasin er tilmeldt følgende svømmestile:
+Bedste tid for Bryst er 22.68 sekunder
+ Bedste tid for Crawl er 29.21 sekunder:
+ Alder: 22 hold: SENIOR Træner: Hardy Akira Madsen]
+[age='22', name='aaaa', aktiv=trueVedkommende har ikke betalt i 3 år
+debt: 5088.0, price=1600]

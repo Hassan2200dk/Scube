@@ -1,0 +1,19 @@
+[age='22', name='ali', aktiv=true , price=1600]
+[age='22', name='shucayb', aktiv=true Personen har ingen restance, price=1600]
+[age='21', name='Hasan', aktiv=true Personen har ingen restance, price=1600]
+[age='21', name='Wei', aktiv=true Vedkommende har ikke betalt i 3 år
+debt: 5088.0, price=1600]
+[age='24', name='Isaac', aktiv=true Vedkommende har ikke betalt i 1 år
+debt: 1696.0, price=1600]
+[age='21', name='Ikhra', aktiv=true , price=1600]
+[age='22', name='hej', aktiv=true Vedkommende har ikke betalt i 3 år
+debt: 5088.0, price=1600]
+[age='22', name='adam', aktiv=false Vedkommende har ikke betalt i 3 år
+debt: 1590.0, price=500]
+[age='22', name='Ahmad', aktiv=true , price=1600]
+[age='22', name='Scucayb', aktiv=false Vedkommende har ikke betalt i 2 år
+debt: 1060.0, price=500]
+[age='22', name='carsten', aktiv=false Vedkommende har ikke betalt i 3 år
+debt: 1590.0, price=500]
+[age='123', name='asssds', aktiv=true , price=1200]
+[age='22', name='lars hollmgren', aktiv=true , price=1600]
